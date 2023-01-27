@@ -1,0 +1,28 @@
+{
+  "admob": {
+    "placements": [
+      {
+        "name": "fullscreen_ad",
+        "units": [
+          {
+            "type": "int",
+            "identifier": "ca-app-pub-3509434118277818/9716161855"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/5723578975"
+          }
+        ]
+      },
+      {
+        "name": "native_banner_ad",
+        "units": [
+          {
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3509434118277818/5723578975"
+          }
+        ]
+      }
+    ]
+  }
+}
