@@ -15,6 +15,10 @@
           {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/4288211719"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/6918244489"
           }
         ]
       },
