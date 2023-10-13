@@ -9,12 +9,24 @@
             "identifier": "ca-app-pub-3509434118277818/6390607125"
           },
           {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/7700987549"
+          },
+          {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/5074614858"
           },
           {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/6985466391"
+          },
+          {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/6335343712"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/4120039026"
           }
         ]
       },
