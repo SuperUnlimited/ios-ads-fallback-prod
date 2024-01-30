@@ -24,20 +24,7 @@
       },
       {
         "name": "native_banner_ad",
-        "units": [
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/1122105200"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/7140718640"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/5608145129"
-          }
-        ]
+        "units": []
       }
     ]
   }
