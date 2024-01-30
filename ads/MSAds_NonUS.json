@@ -32,20 +32,7 @@
       },
       {
         "name": "native_banner_ad",
-        "units": [
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/2135765988"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/9631112626"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/4897698683"
-          }
-        ]
+        "units": []
       },
       {
         "name": "banner_ad",
