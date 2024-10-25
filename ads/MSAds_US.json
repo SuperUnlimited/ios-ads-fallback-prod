@@ -21,6 +21,10 @@
             "identifier": "ca-app-pub-3509434118277818/1285057932"
           },
           {
+            "type": "int",
+            "identifier": "ca-app-pub-3509434118277818/1441787953"
+          },
+          {
             "type": "adv_nav",
             "identifier": "ca-app-pub-3509434118277818/6499552716"
           }
