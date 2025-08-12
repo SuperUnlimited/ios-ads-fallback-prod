@@ -5,28 +5,24 @@
         "name": "fullscreen_ad",
         "units": [
           {
-            "type": "",
+            "type": "int",
             "identifier": "ca-app-pub-3509434118277818/8367693925"
           },
           {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/8209634646"
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/8869837865"
           },
           {
-            "type": "",
+            "type": "int",
             "identifier": "ca-app-pub-3509434118277818/4396675231"
           },
           {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/5288436768"
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/5472151352"
           },
           {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/1441787953"
-          },
-          {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/7723028415"
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/6796765333"
           }
         ]
       },
@@ -34,16 +30,16 @@
         "name": "native_banner_ad",
         "units": [
           {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/1595268999"
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3509434118277818/5927502459"
           },
           {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/7134677347"
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3509434118277818/9675175777"
           },
           {
-            "type": "",
-            "identifier": "ca-app-pub-3509434118277818/4414740778"
+            "type": "adv_nav_banner",
+            "identifier": "ca-app-pub-3509434118277818/7121164622"
           }
         ]
       },
@@ -51,15 +47,15 @@
         "name": "banner_ad",
         "units": [
           {
-            "type": "",
+            "type": "ban",
             "identifier": "ca-app-pub-3509434118277818/8643879101"
           },
           {
-            "type": "",
+            "type": "ban",
             "identifier": "ca-app-pub-3509434118277818/2270042441"
           },
           {
-            "type": "",
+            "type": "ban",
             "identifier": "ca-app-pub-3509434118277818/1912973318"
           }
         ]
