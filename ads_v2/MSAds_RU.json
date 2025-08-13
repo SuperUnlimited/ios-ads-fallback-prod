@@ -6,19 +6,11 @@
         "units": [
           {
             "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/7105946743"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/1853620069"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/4288211719"
+            "identifier": "ca-app-pub-3940256099942544/4411468910"
           },
           {
             "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/8212032904"
+            "identifier": "ca-app-pub-3940256099942544/2521693316"
           }
         ]
       },
@@ -27,15 +19,7 @@
         "units": [
           {
             "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/1122105200"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/7140718640"
-          },
-          {
-            "type": "adv_nav_banner",
-            "identifier": "ca-app-pub-3509434118277818/5608145129"
+            "identifier": "ca-app-pub-3940256099942544/3986624511"
           }
         ]
       }
