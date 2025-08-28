@@ -5,28 +5,8 @@
         "name": "fullscreen_ad",
         "units": [
           {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/1359902523"
-          },
-          {
             "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/3047554569"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/1659285425"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/3602922480"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/2855982878"
-          },
-          {
-            "type": "int",
-            "identifier": "ca-app-pub-3509434118277818/7324014370"
+            "identifier": "ca-app-pub-3509434118277818/9716161855"
           }
         ]
       },
