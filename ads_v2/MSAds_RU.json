@@ -2,10 +2,6 @@
   "admob": {
     "placements": [
       {
-        "name": "fullscreen_ad",
-        "units": []
-      },
-      {
         "name": "native_banner_ad",
         "units": [
           {
