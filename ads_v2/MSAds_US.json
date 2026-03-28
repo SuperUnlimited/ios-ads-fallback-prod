@@ -5,16 +5,12 @@
         "name": "fullscreen_ad",
         "units": [
           {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/6338521133"
-          },
-          {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/8479376428"
           },
           {
             "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/5133250670"
+            "identifier": "ca-app-pub-3509434118277818/6338521133"
           },
           {
             "type": "int",
@@ -22,11 +18,15 @@
           },
           {
             "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/6464597929"
+            "identifier": "ca-app-pub-3509434118277818/5133250670"
           },
           {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/8674785729"
+          },
+          {
+            "type": "adv_nav",
+            "identifier": "ca-app-pub-3509434118277818/6464597929"
           }
         ]
       },
