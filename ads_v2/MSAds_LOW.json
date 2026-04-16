@@ -46,6 +46,15 @@
             "identifier": "ca-app-pub-3509434118277818/7121164622"
           }
         ]
+      },
+      {
+        "name": "app_open",
+        "units": [
+          {
+            "type": "app_op",
+            "identifier": "ca-app-pub-3509434118277818/3293334941"
+          }
+        ]
       }
     ]
   }
