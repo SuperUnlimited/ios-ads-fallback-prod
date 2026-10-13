@@ -5,24 +5,12 @@
         "name": "fullscreen_ad",
         "units": [
           {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/8934753096"
-          },
-          {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/1641330241"
           },
           {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/1676348247"
-          },
-          {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/1241513607"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/3682426415"
           },
           {
             "type": "int",
