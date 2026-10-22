@@ -5,16 +5,8 @@
         "name": "fullscreen_ad",
         "units": [
           {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/9881559138"
-          },
-          {
             "type": "int",
             "identifier": "ca-app-pub-3509434118277818/7622680000"
-          },
-          {
-            "type": "adv_nav",
-            "identifier": "ca-app-pub-3509434118277818/2430399399"
           },
           {
             "type": "int",
